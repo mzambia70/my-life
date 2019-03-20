@@ -1,0 +1,48 @@
+body{
+    background-color: aqua;
+    background-repeat: no-repeat;
+    font-family: 'lobster',cursive;
+    
+}
+h1 {
+  color: Navy;
+  text-align: center;
+}
+h2 {
+    color: Black;
+    text-align: center;
+    text-indent: inherit;
+}
+.box-one{
+    border: 30px blue;
+    padding: 25px black;
+    margin: 25px white;
+    background-color: lime;
+}
+.box-two{
+    border:600px white;
+    padding: 500px red;
+    margin: 500px black;
+    background-color: orange;
+
+}
+.column {
+    color: blue;
+    width: 300px;
+    float: left;
+}
+.hobbies {
+    background-color: gray;
+    font-style: italic;
+    font-weight: bold;
+}
+.intrests{
+    background-color: silver;
+    font-style: oblique;
+    font-weight: lighter;
+}
+.skills{
+    background-color: olive;
+    font-style: italic;
+    font-weight: bold;
+}
